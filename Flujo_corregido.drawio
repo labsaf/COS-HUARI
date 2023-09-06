@@ -1,0 +1,58 @@
+<mxfile host="65bd71144e">
+    <diagram id="0b1w_1oYR28HG1jhq8z7" name="Página-1">
+        <mxGraphModel dx="1413" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="Fase 1 : Descriptiva/Exploratoria" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="17.5" y="50" width="125" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Fase 2 : Recolección/Correción" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="25" y="270" width="110" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="Fase 3 : Transformación/Validación" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="10" y="580" width="140" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Documentación&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="180" y="40" width="120" height="57.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Clima, manjeo de pastos, relieve&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+                    <mxGeometry x="330" y="108.75" width="90" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Fuentes documentales Encuestas &lt;br&gt;Mapas&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
+                    <mxGeometry x="180" y="115" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Caracterización&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="180" y="220" width="120" height="55" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Muestreo en campo&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
+                    <mxGeometry x="180" y="298.75" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="&lt;font size=&quot;1&quot;&gt;Data: Edáfica&amp;nbsp;&lt;br&gt;Ecológica&lt;br&gt;Topográfica&lt;br&gt;&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+                    <mxGeometry x="330" y="288.75" width="90" height="77.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Adquisición de IS&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
+                    <mxGeometry x="180" y="387.5" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="&lt;font size=&quot;1&quot;&gt;Data: Edáfica&lt;br&gt;Vegetación&lt;br&gt;Topográfica&lt;br&gt;&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+                    <mxGeometry x="330" y="377.5" width="90" height="77.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="Análisis estadístico" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+                    <mxGeometry x="450" y="298.75" width="137.5" height="56.25" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="Corrección-Preprocesamiento" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+                    <mxGeometry x="450" y="387.5" width="137.5" height="58.75" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Indices ETV&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
+                    <mxGeometry x="470" y="497.5" width="100" height="48.75" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="APC" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+                    <mxGeometry x="620" y="491.87" width="100" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Data&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
+                    <mxGeometry x="620" y="302.5" width="100" height="48.75" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

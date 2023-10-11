@@ -1,7 +1,10 @@
-## Delimitación semiautomatizada de pastos alto andinos para el aprovechamiento pastoril sostenible (controlado) en la zona media de la cuenca del Río Huari-Ancash
+## Nivel de degradación de pastizales altoandinos mediante métodos combinados de teledetección y aprendizaje automatizado
 
-*el carbono en suelos negros*
+Area de estudio: Huari-Ancash
 
-![gis](imagenes\Captura2.JPG "SANTA ANA")
+![1697058273799](image/README/1697058273799.png)
 
-[trends](https://docs.trends.earth/en/latest/index.html)
+
+Flujo metodológico
+
+![1697058343268](image/README/1697058343268.png)
